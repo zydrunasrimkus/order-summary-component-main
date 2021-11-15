@@ -14,7 +14,7 @@ html {
 body {
     margin: 0;
     width: 100%;
-    background-image: url('./images/backgr.png');
+    background-image: url('https://github.com/zydrunasrimkus/order-summary-component-main/blob/master/images/backgr.png');
     background-repeat:repeat;
 }
 
